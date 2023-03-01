@@ -1,0 +1,33 @@
+body{
+    background: #6a11cb;
+    
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgb(0, 42, 116))
+    }
+.card-body{
+    border: solid #fff 2px;
+    border-radius: 50px 20px;
+}
+
+
+    /* upload setion */
+    .jumbotron{
+        padding: 15% 15% 15.9%;
+    }
+    p,label{
+        font-family: "Montserrat";
+        color: #fff;
+    } 
+    h3{
+        color: #fff;
+        font-family: "Ubuntu";
+        font-size: 24px;
+
+    }
+    label{
+        font-size: 20px;
+        
+    }
+    
